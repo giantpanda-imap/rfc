@@ -1,7 +1,7 @@
 # RFC
-THe following document lists the RFCs that are relevant for the GiantPanda project.
+The following document lists the RFCs that are relevant for the GiantPanda project.
 
-Currently the list does not distinguish RFC support by the different projects currently it only reflects c-client.
+Currently the list does not distinguish RFC support by the different projects only what libmail (formally c-client) supports.
 
 Items marked with [x]  are supported.
 
